@@ -1,0 +1,26 @@
+names:
+- apple
+- banana
+- bell_pepper
+- cabbage
+- carrot
+- chilli_pepper
+- corn
+- cucumber
+- eggplant
+- garlic
+- grape
+- kiwi
+- lemon
+- lettuce
+- mango
+- onion
+- orange
+- pineapple
+- potato
+- sweetpotato
+- tomato
+- watermelon
+nc: 22
+train: Fruits-and-Vegetables-3/train/images
+val: Fruits-and-Vegetables-3/valid/images
